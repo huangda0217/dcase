@@ -1,5 +1,11 @@
 # DCASE 2026 Task 2 — Unsupervised Anomalous Sound Detection
 
+> **Before using this project**, first clone the repository and navigate into the directory:
+> ```bash
+> git clone https://github.com/huangda0217/dcase.git
+> cd dcase
+> ```
+
 Unsupervised anomaly detection on industrial machine sounds. Trained on normal audio only (~1000 files per machine), outputs anomaly scores for new recordings.
 
 ## 1. Install Dependencies
